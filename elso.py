@@ -1,0 +1,2 @@
+#Első Konzultáció
+print("Szia!")
